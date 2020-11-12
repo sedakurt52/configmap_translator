@@ -4,8 +4,10 @@
 When you run the script, the script will ask you to enter ocp login url and login
  
  ./cmtranslator.sh
+ 
  Please enter your openshift url:
  ocp.local.host
+ 
  Please Enter your project name:
  myfirstproject
  
